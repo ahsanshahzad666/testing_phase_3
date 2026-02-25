@@ -8,3 +8,10 @@ Receiving objects: 100% (3/3), done.
 se_3> git config --global user.email 'Ahsan Shahzad'
 PS J:\My Drive\Section 1 _____ Hard Skill Records\Basic Level Learning Record's\DE Hard Skill Level 1 Records\Git & Github Learning\Phase 3 Working\testing_phase_3>  git config --global user.email 'ahsanshahzadds66@gmail.com'
 PS J:\My Drive\Section 1 _____ Hard Skill Records\Basic Level Learning Record's\DE Hard Skill Level 1 Records\Git & Github Learning\Phase 3 Working\testing_phase_3> git config --global user.name 'Ahsan Shahzad'
+
+
+ -------------------------------- version 3 -------------------------------------
+
+ se_3> git config --global user.email 'Ahsan Shahzad'
+PS J:\My Drive\Section 1 _____ Hard Skill Records\Basic Level Learning Record's\DE Hard Skill Level 1 Records\Git & Github Learning\Phase 3 Working\testing_phase_3>  git config --global user.email 'ahsanshahzadds66@gmail.com'
+PS J:\My Drive\Section 1 _____ Hard Skill Records\Basic Level Learning Record's\DE Hard Skill Level 1 Records\Git & Github Learning\Phase 3 Working\testing_phase_3> git config --global user.name 'Ahsan Shahzad'
