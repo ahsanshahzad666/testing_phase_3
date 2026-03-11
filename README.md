@@ -83,3 +83,10 @@ PS J:\My Drive\Section 1 _____ Hard Skill Records\Basic Level Learning Record's\
 
 se_3> git config --global user.email 'Ahsan Shahzad' 
 PS J:\My Drive\Section 1 ____-global user.email 'ahsanshahzadds66@gmail.com'
+
+
+
+ -------------------------------- version 13 ------------------------------------- 
+
+se_3> git config --global user.email 'Ahsan Shahzad' 
+PS J:\My Drive\Section 1 ____-global user.email 'ahsanshahzadds66@gmail.com'
